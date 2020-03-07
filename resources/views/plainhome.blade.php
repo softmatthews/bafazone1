@@ -8,6 +8,7 @@
 	<link rel="canonical" href="https://yoursite.com/">
 	<link rel="shortcut icon" href="assets/images/fav.png" type="image/png">
 
+
     <title>Megastore HTML</title>
     <meta property="og:type" content="website">
     <meta property="og:title" content="Megastore HTML">
