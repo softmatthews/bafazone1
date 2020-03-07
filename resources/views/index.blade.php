@@ -9,4 +9,5 @@ Signup
 	 @include('partials.myheader')	
 	 @include('partials.nav')
 	 @include('partials.homemain')
+	 
 @endsection
